@@ -7,3 +7,10 @@ Se agrego un h1 con `#`
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ###### Imagen de Yaktocat
+
+
+### Code block in Ts
+
+``` typescript
+const name = "chrisauri0"; 
+```
