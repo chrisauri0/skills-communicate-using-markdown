@@ -14,3 +14,6 @@ Se agrego un h1 con `#`
 ``` typescript
 const name = "chrisauri0"; 
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
